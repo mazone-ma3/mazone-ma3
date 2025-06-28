@@ -1,5 +1,4 @@
-## Hi there 👋
-
+レトロパソコンとPyxelで作成したプログラム各種を公開しています。
 <!--
 **mazone-ma3/mazone-ma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
